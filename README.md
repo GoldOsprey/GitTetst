@@ -1,4 +1,4 @@
-GitTetst
+GitTest
 ========
 
 My first git repository
